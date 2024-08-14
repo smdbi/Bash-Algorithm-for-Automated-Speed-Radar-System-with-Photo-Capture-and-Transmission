@@ -1,7 +1,7 @@
 #Bash Algorithm for Automated Speed Radar System with Photo Capture and Transmission
 
 Description:
-Welcome to the repository housing an innovative bash algorithm designed to operate an automated speed radar system. This algorithm seamlessly integrates with the radar setup to execute instantaneous speed checks and triggers a flash when a vehicle surpasses 110 km/h on the highway. Simultaneously, a photograph of the vehicle's license plate is captured, ready to be dispatched to the police headquarters.
+This algorithm seamlessly integrates with the radar setup to execute instantaneous speed checks and triggers a flash when a vehicle surpasses 110 km/h on the highway. Simultaneously, a photograph of the vehicle's license plate is captured, ready to be dispatched to the police headquarters.
 
 
 
